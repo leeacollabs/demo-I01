@@ -2,3 +2,5 @@
 ## Teammates
 - Leea 
 - Heath
+- Eniola
+- Hayden
